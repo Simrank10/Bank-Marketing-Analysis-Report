@@ -6,9 +6,8 @@ This project involves analyzing a bank marketing dataset to predict the success 
 ## Dataset
 The dataset includes the following features:
 
-● Age: Numeric
-
-● Job: Type of job (12 categories)
+- Age: Numeric
+- Job: Type of job (12 categories)
 ● Marital: Marital status (3 categories)
 ● Education: Education level (4 categories)
 ● Housing: Has a housing loan? (Yes, No)
