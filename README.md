@@ -1,4 +1,4 @@
-# Bank-Marketing-Analysis-Report
+# Bank Marketing Analysis Report
 
 ## Overview
 This project involves analyzing a bank marketing dataset to predict the success of telemarketing campaigns. The dataset contains 45,211 observations with 18 features. The analysis includes various visualizations and insights drawn from the data to understand customer behavior and campaign effectiveness.
